@@ -3,12 +3,12 @@
   <img src="https://media.tenor.com/ef_emJau35YAAAAi/anime-anime-character.gif" height="100"/>
 </h1>
 
-<h3 align="center">Backend Development Go and Node js</h3>
+<h3 align="center">Backend Development Go and Node js</h3>https://github.com/Fadelovers/Fadelovers/blob/main/README.md
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=I+hope+one+day+you'll+forgive+me)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://media.tenor.com/5C6Lg5KslGoAAAAC/anime-girl.gif" height="350" alt="Anime Girl GIF"/>
+  <iframe src="https://giphy.com/embed/your-gif-id" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 
