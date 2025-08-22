@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=I+hope+one+day+you'll+forgive+me)](https://git.io/typing-svg)
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/your-gif-id" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://c.tenor.com/jmVVCR9LqT8AAAAd/tenor.gif" height="350" alt="Anime GIF"/>
 </div>
 
 
