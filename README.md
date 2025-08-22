@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=I+hope+one+day+you'll+forgive+me)](https://git.io/typing-svg)
 
-<h1 align="center"><img scr="https://media.tenor.com/ef_emJau35YAAAAi/anime-anime-character.gif" height="100"/></h1>
+<h1 align="center"><img scr="https://c.tenor.com/jmVVCR9LqT8AAAAd/tenor.gif" height="100"/></h1>
 
 
 
