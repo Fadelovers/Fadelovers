@@ -1,6 +1,6 @@
 <h1 align="center">I`am <a href="https://www.youtube.com/watch?v=Wm1ttXHLwl4&ab_channel=KrzysztofUtbult" target="_blank">Norman</a> 
 <img src="https://media.tenor.com/ef_emJau35YAAAAi/anime-anime-character.gif" height="100"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Backend Development Go and Node js</h3>
 
 <!--
 **Fadelovers/Fadelovers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
