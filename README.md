@@ -2,3 +2,4 @@
 <img src="https://media.tenor.com/ef_emJau35YAAAAi/anime-anime-character.gif" height="100"/></h1>
 <h3 align="center">Backend Development Go and Node js</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nerko+One&size=49&pause=1000&color=F78989&background=FFFFFF00&width=435&lines=Welcome+to+my+page+!)](https://git.io/typing-svg)
